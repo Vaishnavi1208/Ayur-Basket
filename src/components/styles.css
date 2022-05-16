@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, #66ff66, #ccffcc);
+  }
+/* 
+  .class1{
+    background-color: linear-gradient(to right, #66ff66, #ccffcc);
+  } */
+  
+  .card-img-left {
+    width: 45%;
+  /* Link to your background image using in the property below! */
+  background: scroll center url('img1.jpg');
+    background-size: cover;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  .btn-google {
+    color: white !important;
+    background-color: #ea4335;
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #3b5998;
+  }
